@@ -1,6 +1,6 @@
 ---
 title: "Blog Update"
-date: 2022-06-07
+date: 2022-06-10
 ---
 Amol Bhide
 
